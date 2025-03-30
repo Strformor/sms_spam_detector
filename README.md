@@ -1,5 +1,4 @@
 # SMS Spam Detector 
----
 ### **Project Overview**  
 This project builds a **machine learning model** to classify SMS messages as **spam or ham** using **TF-IDF vectorization** and **LinearSVC**. The dataset, **“SMSSpamCollection,”** provides labeled messages for training. After preprocessing, a **pipeline** integrates **TF-IDF** with **LinearSVC** to efficiently classify messages. A **Gradio interface** allows users to input SMS messages and get real-time predictions.  
 
