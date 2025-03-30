@@ -15,6 +15,7 @@ This project builds a **machine learning model** to classify SMS messages as **s
 ### **🔹 Key Takeaways**  
 1️⃣ **TF-IDF is crucial** for extracting meaningful text features.  
 2️⃣ **LinearSVC** is **fast and effective** for text classification.  
+3️⃣ **Gradio** makes it easy for non-technical users to have access to the model quickly and effectively with no complicated deployment system 
 
 ### **Conclusion**  
 This project showcases **end-to-end SMS spam detection** with **TF-IDF & LinearSVC**, highlighting **feature engineering’s role** in text classification. The **Gradio interface** makes it **user-friendly**, demonstrating how machine learning can be applied in real-world scenarios. 🚀
