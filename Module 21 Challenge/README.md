@@ -1,2 +1,0 @@
-# SMS Spam Detector 
----
